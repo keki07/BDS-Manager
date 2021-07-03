@@ -1,3 +1,4 @@
 # BDS-Manager
 
-d
+Based on:
+https://github.com/Benjerman/Minecraft-Server-Manager
